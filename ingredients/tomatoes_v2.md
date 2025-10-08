@@ -3,7 +3,7 @@
 
 # Quick Reference
 
-![Fresh tomatoes in various sizes and colors|350](https://cdn.mos.cms.futurecdn.net/ueAieoR7cvjgqSdAGBcJYR-1024-80.jpg.webp)
+<img src="https://cdn.mos.cms.futurecdn.net/ueAieoR7cvjgqSdAGBcJYR-1024-80.jpg.webp" alt="Fresh tomatoes in various sizes and colors" width="350" />
 
 | Action             | Quick Steps                                           |
 | ------------------ | ----------------------------------------------------- |
@@ -34,9 +34,9 @@
 | **(Practical)**<br><br>• Consider size for portion needs<br>• Pre-packaged saves time but costs more<br>• Roma tomatoes have fewer seeds and thick walls | Right-sized tomatoes reduce waste and prep time. Pre-packaged varieties offer convenience but may have shorter shelf life. Choosing the right variety for your cooking method saves time - Roma tomatoes need less draining for sauces. |
 | **(Aesthetic)**<br><br>• Uniform size for even cooking and presentation<br>• Bright color for visual appeal<br>• Shape consistency for professional-looking dishes | Uniform tomatoes cook evenly and look more attractive in dishes. Vibrant colors indicate good nutrition and eye appeal. Consistent shapes create better presentation, especially important for entertaining or special occasions. Perfect appearance often costs more but may be worth it for visible applications. |
 
-![Comparison of ripe vs overripe tomatoes showing ideal selection criteria|350](https://images.unsplash.com/photo-1592924357228-91a4daadcfea?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80)
+<img src="https://images.unsplash.com/photo-1592924357228-91a4daadcfea?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80" alt="Comparison of ripe vs overripe tomatoes showing ideal selection criteria" width="350" />
 
-![Various tomato varieties showing different sizes and colors available|350](https://images.unsplash.com/photo-1582284540020-8acbe03f4924?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80)
+<img src="https://images.unsplash.com/photo-1582284540020-8acbe03f4924?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80" alt="Various tomato varieties showing different sizes and colors available" width="350" />
 | **(Freshness)**<br><br>[indicators] | [explanation of freshness/quality indicators]         |
 | **(Taste)**<br><br>[indicators]     | [explanation of how selection affects flavor/texture] |
 | **(Practical)**<br><br>[indicators] | [explanation of convenience/usability factors]        |
@@ -46,7 +46,7 @@
 
 # Anatomy
 
-![Cross-section of tomato showing internal structure and parts](https://images.unsplash.com/photo-1574282893877-3bd8da735355?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80)
+<img src="https://images.unsplash.com/photo-1574282893877-3bd8da735355?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80" alt="Cross-section of tomato showing internal structure and parts" width="350" />
 
 | Part           | Description                    | Kitchen Relevance                         |
 | -------------- | ------------------------------ | ----------------------------------------- |
@@ -95,7 +95,7 @@
 | **Roasted**   | Side dishes, concentrating flavor     | Cut in half, drizzle with olive oil, roast cut-side up at 400°F for 20-30 minutes until edges caramelize.              |
 | **Grilled**   | Summer cooking, smoky flavor          | Use firm, large tomatoes. Slice thick, brush with oil, grill 3-4 minutes per side until grill marks appear.            |
 
-![Step-by-step tomato preparation showing coring and peeling technique|350](https://images.unsplash.com/photo-1571771894821-ce9b6c11b08e?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80)
+<img src="https://images.unsplash.com/photo-1571771894821-ce9b6c11b08e?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80" alt="Step-by-step tomato preparation showing coring and peeling technique" width="350" />
 
 ## Tricks
 * **Easy peeling:** Use a vegetable peeler on firm tomatoes instead of blanching for small amounts
@@ -137,7 +137,7 @@ Not all tomatoes are created equal, and understanding the main categories helps 
 
 **Heirloom varieties** offer unique flavors, colors, and shapes that have been passed down through generations. While they may look imperfect, they often provide complex flavor profiles unavailable in standard hybrids. Popular heirlooms include Cherokee Purple (smoky and sweet), Brandywine (old-fashioned tomato flavor), and Green Zebra (tangy and firm).
 
-![Different tomato varieties showing size and color variations](https://images.unsplash.com/photo-1592417817098-8fd3d9eb14a5?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80)
+<img src="https://images.unsplash.com/photo-1592417817098-8fd3d9eb14a5?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80" alt="Different tomato varieties showing size and color variations" width="350" />
 
 ## The Science of Ripening
 

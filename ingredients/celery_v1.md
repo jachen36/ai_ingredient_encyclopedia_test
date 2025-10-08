@@ -4,7 +4,7 @@
 # Quick Reference
 (Purpose: Summarize all the critical knowledge one should retain and could use on a daily)
 
-![Fresh celery bunch in typical purchased form|350](https://images.unsplash.com/photo-1559181567-c3190ca9959b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80)
+<img src="https://images.unsplash.com/photo-1559181567-c3190ca9959b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80" alt="Fresh celery bunch in typical purchased form" width="350" />
 
 | Action             | Quick Steps                                         |
 | ------------------ | --------------------------------------------------- |
@@ -45,7 +45,7 @@
 | **Leaves** | Feathery green leaves with concentrated celery flavor, similar to parsley | Often discarded but excellent for stocks, seasoning, garnish, or dried as seasoning salt. More flavorful than stalks. |
 | **Base/Root** | White bottom portion where stalks connect, fibrous and tough | Trim and discard for eating, but save for vegetable stock - adds deep celery flavor. |
 
-![Celery anatomy showing different parts|350](https://images.unsplash.com/photo-1584464491033-06628f3a6b7b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80)
+<img src="https://images.unsplash.com/photo-1584464491033-06628f3a6b7b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80" alt="Celery anatomy showing different parts" width="350" />
 
 ---
 
@@ -91,7 +91,7 @@
 | **Steamed**         | Healthy side dish        | Steam whole stalks 8-12 minutes until fork-tender but still crisp. |
 | **Blanched**        | Salads, freezing prep    | Boil 2-3 minutes, shock in ice water to stop cooking and preserve color. |
 
-![Celery preparation techniques|350](https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80)
+<img src="https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80" alt="Celery preparation techniques" width="350" />
 
 ## Tricks
 * **String removal shortcut:** Break stalk partially and pull - strings will come with the broken piece.

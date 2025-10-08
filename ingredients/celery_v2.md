@@ -3,7 +3,7 @@
 
 # Quick Reference
 
-![Fresh celery bunch in typical purchased form|350](https://images.unsplash.com/photo-1551754655-cd27e38d2076?ixlib=rb-4.0.3&auto=format&fit=crop&w=350&q=80)
+<img src="https://images.unsplash.com/photo-1551754655-cd27e38d2076?ixlib=rb-4.0.3&auto=format&fit=crop&w=350&q=80" alt="Fresh celery bunch in typical purchased form" width="350" />
 
 | Action             | Quick Steps                                           |
 | ------------------ | ----------------------------------------------------- |
@@ -36,7 +36,7 @@
 
 # Anatomy
 
-![Celery anatomy showing stalks, leaves, and base|350](https://images.unsplash.com/photo-1615486364691-8911fe97fa66?ixlib=rb-4.0.3&auto=format&fit=crop&w=350&q=80)
+<img src="https://images.unsplash.com/photo-1615486364691-8911fe97fa66?ixlib=rb-4.0.3&auto=format&fit=crop&w=350&q=80" alt="Celery anatomy showing stalks, leaves, and base" width="350" />
 
 | Part           | Description                    | Kitchen Relevance                         |
 | -------------- | ------------------------------ | ----------------------------------------- |

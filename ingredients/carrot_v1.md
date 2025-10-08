@@ -4,7 +4,7 @@
 # Quick Reference
 (Purpose: Summarize all the critical knowledge one should retain and could use on a daily)
 
-![Fresh carrots in typical purchased form|350](https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80)
+<img src="https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80" alt="Fresh carrots in typical purchased form" width="250" />
 
 | Action             | Quick Steps                                           |
 | ------------------ | ----------------------------------------------------- |
@@ -35,7 +35,7 @@
 | **(Practical)**<br><br>• Pre-cut baby carrots save prep time but cost more<br>• Carrots with tops require extra trimming<br>• Similar-sized carrots cook evenly together<br>• Organic vs. conventional based on budget and preference | Convenience features affect meal prep efficiency and cost. Uniform sizing ensures consistent cooking results. Tops removal extends storage life but requires additional prep work. |
 | **(Aesthetic)**<br><br>• Straight, uniform shapes for formal presentations<br>• Rainbow varieties (purple, yellow, white) for visual interest<br>• Surface blemishes matter more for raw serving than cooking | Perfect appearance is mainly important for raw applications like crudité platters. Irregular shapes and minor blemishes disappear when cooked and don't affect flavor. |
 
-![Fresh vs. older carrots comparison|350](https://images.unsplash.com/photo-1445282768818-728615cc275a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80)
+<img src="https://images.unsplash.com/photo-1445282768818-728615cc275a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80" alt="Fresh vs. older carrots comparison" width="350" />
 | **(Freshness)**<br><br>[indicators] | [explanation of freshness/quality indicators]         |
 | **(Taste)**<br><br>[indicators]     | [explanation of how selection affects flavor/texture] |
 | **(Practical)**<br><br>[indicators] | [explanation of convenience/usability factors]        |
@@ -52,7 +52,7 @@
 | **Green Tops** | Feathery green leaves attached to carrot crown, similar to parsley in appearance | Often discarded but completely edible - use like herbs in salads, pestos, or chimichurri. Can be sautéed like other greens. |
 | **Core**       | Central woody portion in very large carrots, lighter colored than outer flesh | In oversized carrots, remove woody core before cooking. In young carrots, core is tender and edible. |
 
-![Anatomy of carrot showing root and green tops|350](https://images.unsplash.com/photo-1522184216316-3c25379f9760?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80)
+<img src="https://images.unsplash.com/photo-1522184216316-3c25379f9760?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80" alt="Anatomy of carrot showing root and green tops" width="350" />
 
 ---
 
@@ -100,7 +100,7 @@
 | **Sautéed**         | Quick side, stir-fries    | Cut small, cook in hot pan 5-8 min. Add liquid if needed to prevent burning. |
 | **Braised**         | Stews, pot roasts         | Brown first, then cook covered in liquid 30-45 min until fork-tender. |
 
-![Carrot cutting techniques demonstration|350](https://images.unsplash.com/photo-1576045057995-568f588f82fb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80)
+<img src="https://images.unsplash.com/photo-1576045057995-568f588f82fb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80" alt="Carrot cutting techniques demonstration" width="350" />
 
 ## Tricks
 * **Ice water soak:** Cut carrots and soak in ice water for 30 minutes to restore crispness and remove some bitterness.

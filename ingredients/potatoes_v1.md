@@ -4,7 +4,7 @@
 # Quick Reference
 (Purpose: Summarize all the critical knowledge one should retain and could use on a daily)
 
-![Fresh potatoes in typical purchased form|350](https://images.unsplash.com/photo-1518977676601-b53f82aba655?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80)
+<img src="https://images.unsplash.com/photo-1518977676601-b53f82aba655?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80" alt="Fresh potatoes in typical purchased form" width="350" />
 
 | Action             | Quick Steps                                           |
 | ------------------ | ----------------------------------------------------- |
@@ -35,7 +35,7 @@
 | **(Practical)**<br><br>• Choose uniform sizes for even cooking<br>• Pre-washed potatoes may have shorter shelf life<br>• Bulk purchases require proper storage conditions<br>• Organic vs. conventional based on preference | Consistent sizing ensures all pieces cook at the same rate. Washing removes protective soil layer. Bulk buying only makes sense with proper storage. |
 | **(Aesthetic)**<br><br>• Smooth, regular shapes for formal presentations<br>• Minor blemishes acceptable for mashing or soups<br>• Skin color consistency if serving with peels on | Perfect appearance mainly matters for dishes where potatoes are featured prominently. Irregularities disappear when mashed or in rustic preparations. |
 
-![Potato variety comparison|350](https://images.unsplash.com/photo-1566385101042-1a0aa0c1268c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80)
+<img src="https://images.unsplash.com/photo-1566385101042-1a0aa0c1268c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80" alt="Potato variety comparison" width="350" />
 
 ---
 
@@ -84,7 +84,7 @@
 | **Steamed**         | Small/new potatoes       | Steam whole small potatoes 15-20 minutes until tender. |
 | **Grilled**         | Firm varieties, summer   | Parboil first, then grill 10-15 minutes, turning frequently. |
 
-![Potato preparation techniques|350](https://images.unsplash.com/photo-1543352634-99a5d50ae78e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80)
+<img src="https://images.unsplash.com/photo-1543352634-99a5d50ae78e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80" alt="Potato preparation techniques" width="350" />
 
 ## Tricks
 * **Fluffier mashed potatoes:** Use a ricer or food mill instead of a masher. Add warm liquids gradually.

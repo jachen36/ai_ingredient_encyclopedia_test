@@ -3,7 +3,7 @@
 
 # Quick Reference
 
-![Fresh potatoes in typical purchased form|350](https://images.unsplash.com/photo-1518977676601-b53f82aba655?ixlib=rb-4.0.3&auto=format&fit=crop&w=350&q=80)
+<img src="https://images.unsplash.com/photo-1518977676601-b53f82aba655?ixlib=rb-4.0.3&auto=format&fit=crop&w=350&q=80" alt="Fresh potatoes in typical purchased form" width="350" />
 
 | Action             | Quick Steps                                           |
 | ------------------ | ----------------------------------------------------- |

@@ -5,7 +5,7 @@
 (Purpose: Summarize all the critical knowledge one should retain and could use on a daily)
 
 
-![Tomatoes in typical form](https://upload.wikimedia.org/wikipedia/commons/8/89/Tomato_je.jpg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Tomato_je.jpg" alt="Tomatoes in typical form" width="300" />
 
 | Action             | Quick Steps                                           |
 | ------------------ | ----------------------------------------------------- |
@@ -24,7 +24,7 @@
 (Purpose: Most important details when selecting the right produce and know the signs of when food spoils)
 
 
-![Tomatoes: ripe and unripe comparison](https://upload.wikimedia.org/wikipedia/commons/2/2c/Tomatoes_-_ripe_and_unripe.jpg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Tomatoes_-_ripe_and_unripe.jpg" alt="Tomatoes: ripe and unripe comparison" width="300" />
 
 **Synonymous:** Tomato, Tomate, Pomodoro, Tamatar, Lycopersicon
 **Confusing Names:** Sometimes confused with tomatillo (green, husked, unrelated)
@@ -48,8 +48,7 @@
 
 *Only include this section if the ingredient has distinct parts with different uses/characteristics. Omit for simple ingredients like dried beans, rice, canned goods, etc.*
 
-
-![Tomato anatomy: skin, flesh, seeds, gel](https://upload.wikimedia.org/wikipedia/commons/2/2e/Tomato_cross_section.jpg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Tomato_cross_section.jpg" alt="Tomato anatomy: skin, flesh, seeds, gel" width="300" />
 
 | Part           | Description                                 | Kitchen Relevance                         |
 | -------------- | ------------------------------------------- | ----------------------------------------- |
